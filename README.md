@@ -1,2 +1,2 @@
 # project-box
-Stores all of my past projects
+Stores past projects
